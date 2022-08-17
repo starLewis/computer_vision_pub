@@ -1,0 +1,19 @@
+{
+  "name": "runoob",
+  "version": "1.0.0",
+  "description": "Node.js test www.runoob.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runoob/runoob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runoob/runoob/issues"
+  },
+  "homepage": "https://github.com/runoob/runoob#readme"
+}

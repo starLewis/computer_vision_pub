@@ -1,0 +1,76 @@
+{
+    "refTurbinePicFolderPath": "/home/lewisliu/Clobotics/Data/CvDataOwnCloud/AutoFlight/TurbineData/SGRE/TurbineData/11_M14_20190711T093810/20190711T093810/picture",
+    "bladeName": "A",
+    "curTurbinePicFolderPath": "/home/lewisliu/Clobotics/Data/CvDataOwnCloud/AutoFlight/TurbineData/SGRE/TurbineData/11_M14_20190711T093810/20190711T101647/picture",
+    "bladeSide": "3_SS_TE_View",
+    "pairPoints": [
+        {
+            "refPoint": [
+                0.16666666666666666,
+                0.692
+            ],
+            "curImgName": "DSC05666.JPG",
+            "curImgIndex": 11,
+            "refImgIndex": 4,
+            "curPoint": [
+                0.29333333333333333,
+                0.637
+            ],
+            "markerId": "A_3_0",
+            "curPointToRootD": null,
+            "refImgName": "DSC05232.JPG",
+            "refPointToRootD": null
+        },
+        {
+            "refPoint": [
+                0.21733333333333332,
+                0.576
+            ],
+            "curImgName": "DSC05681.JPG",
+            "curImgIndex": 26,
+            "refImgIndex": 22,
+            "curPoint": [
+                0.43266666666666664,
+                0.873
+            ],
+            "markerId": "A_3_1",
+            "curPointToRootD": null,
+            "refImgName": "DSC05250.JPG",
+            "refPointToRootD": null
+        },
+        {
+            "refPoint": [
+                0.7513333333333333,
+                0.686
+            ],
+            "curImgName": "DSC05685.JPG",
+            "curImgIndex": 30,
+            "refImgIndex": 27,
+            "curPoint": [
+                0.48,
+                0.212
+            ],
+            "markerId": "A_3_2",
+            "curPointToRootD": null,
+            "refImgName": "DSC05255.JPG",
+            "refPointToRootD": null
+        },
+        {
+            "refPoint": [
+                0.9133333333333333,
+                0.184
+            ],
+            "curImgName": "DSC05686.JPG",
+            "curImgIndex": 31,
+            "refImgIndex": 28,
+            "curPoint": [
+                0.43,
+                0.264
+            ],
+            "markerId": "A_3_3",
+            "curPointToRootD": null,
+            "refImgName": "DSC05256.JPG",
+            "refPointToRootD": null
+        }
+    ]
+}
